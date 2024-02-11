@@ -30,46 +30,26 @@ Voilà! Your Midi Fighter Twister is fully configured and ready to be used!
 
 ## What does what
 
-This layout covers the vast majority of the settings accessible through the develop panels.
-I've left 8 unmapped knobs (hence 8 unmapped boutons too) and 1 unmapped lateral button; so you can customize this to your taste or add your most used functions.
+I hardly use any adjustments except those accessible via the first Bank,
+so that is why only it is listed. Most other banks were left to whatever
+they were set to by the original configuration I started from.
 
-### 4 Banks
+### Bank 1
 
 | Bank 1 |   |   | Pressed knob resets value |
-|-------|---|---|---------------------------|
-| Temperature | Tint | Exposure | Contrast |
-| Highlights | Shadows | Whites | Blacks |
-| Clarity | Dehaze | Vibrance | Saturation |
-| Hightlights (Curve) | Shadows (Curve) | Whites (Curve) | Blacks (Curve) |
-
-| Bank 2 |   |   | Pressed knob resets value |
-|-------|---|---|---------------------------|
-| Hue Red | Hue Orange | Hue Yellow | Hue Green |
-| Hue Aqua | Hue Blue | Hue Purple | Hue Magenta |
-| Saturation Red | Saturation Orange | Saturation Yellow | Saturation Green |
-| Saturation Aqua | Saturation Blue | Saturation Purple | Saturation Magenta |
-
-| Bank 3 |   |   | Pressed knob resets value |
-|-------|---|---|---------------------------|
-| Luminance Red | Luminance Orange | Luminance Yellow | Luminance Green |
-| Luminance Aqua | Luminance Blue | Luminance Purple | Luminance Magenta |
-| Split Toning - Highlights Hue | Split Toning - Highlights Saturation | Split Toning - Shadows Hue | Split Toning - Shadows Saturation |
-| Sharpness | Luminance Smoothing | Color Noise Reduction | Lens Profile Vignetting Scale |
-
-| Bank 4 |   |   | Pressed knob resets value |
-|-------|---|---|---------------------------|
-| Shadow Tint | Red Hue | Green Hue | Blue Hue |
-| PostCropVignette | Red Saturation | Green Saturation | Blue Saturation |
-| Free | Free | Free | Free |
-| Free | Free | Free | Free |
+|--------|---|---|---------------------------|
+| Contrast |            |             |            |
+| Defringe Purple | Dehaze | Vibrance | Saturation |
+| Blacks   | Shadows    | Highlights  | Whites     |
+| Exposure | Straighten | Temperature | Tint       |
 
 ### Lateral Buttons
 
 | Left          | Right       |
 |---------------|-------------|
-| Previous Bank | Pick        |
-| Next Bank     | Remove flag |
-| Free          | Reject      |
+| Filter 1      | Rate 0      |
+| Filter 2      | Rate 1      |
+| Filter 3      | Reject      |
 
 ## Contributing
 
